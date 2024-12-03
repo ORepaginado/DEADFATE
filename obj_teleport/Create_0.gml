@@ -1,0 +1,2 @@
+
+var targetroom, targetX, targetY;
